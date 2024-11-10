@@ -1,0 +1,4 @@
+1. Basic Improvements in Initial dts
+2. Update Vendor blobs to 1.0.10.0 UMOMIXM
+3. Update Camera blobs to 1.0.10.0 UMOMIXM
+4. Update kernel subpatch level to x.xx.322
